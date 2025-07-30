@@ -1,4 +1,4 @@
-# To-Do List Web App (Vanilla JavaScript)
+# To-Do List Web App
 
 A clean, functional, and fully responsive To-Do List web application, built using only **HTML**, **CSS**, and **JavaScript**.
 
