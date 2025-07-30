@@ -11,7 +11,6 @@ This app allows users to:
  **Delete Individual Tasks**  
  **Clear All Tasks**  
  **Fully Responsive Design** 
-
  **Persistent Storage with `localStorage`**  
   Your tasks are stored in the browser using `localStorage`. Even after closing or refreshing the browser, your list remains exactly as it was.
     Tasks are saved as a JSON string.
@@ -24,16 +23,12 @@ This project was not just about building a to-do app it was a **personal milesto
 The Struggle with `localStorage`
 At first, I struggled a lot with how to **save tasks persistently**. The concept of `localStorage` was completely new to me and I had to learn how to **store arrays**, parse JSON, and update it dynamically on state changes.
 After multiple failures I finally cracked it!
-
 Learning DOM Manipulation
  Every button, task, and state in this app helped me understand:
   How to create elements using JavaScript
   How to append them to the DOM
   How to add dynamic event listeners
 This was my **first real experience** with **vanilla DOM manipulation** and it built the my concepts of DOM.
-
-Responsive Design Breakthrough
-
 Another feature which I learned about was making the app **responsive**. I learned how to:
   Use `media queries`
   Adjust layouts for mobile, tablet, and desktop
