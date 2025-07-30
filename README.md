@@ -4,8 +4,6 @@ A clean, functional, and fully responsive To-Do List web application, built usin
 
 ## Features
 
-This app allows users to:
-
  **Add New Tasks**  
  **Mark Tasks as Completed / Un-Completed**  
  **Delete Individual Tasks**  
