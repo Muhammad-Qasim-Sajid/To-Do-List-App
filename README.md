@@ -1,7 +1,7 @@
 #  To-Do List Web App
 A clean, functional, and fully responsive To-Do List web application, built using only **HTML**, **CSS**, and **JavaScript**.
 
-## Link of Finance Tracker
+## Link of To-Do-List App
 [To Do List App](https://to-do-app-by-qasim.netlify.app/)
 
 ##  Screenshot
